@@ -1,0 +1,43 @@
+body{
+  background-color: #f4f9f9;
+  align-items: center;
+}
+.choices{
+  width:280px;
+  margin:0 auto 20px;
+}
+.carousel{
+  width:300px;
+  height:150px;
+  margin:40px 2px;
+}
+.contactD{
+  padding: 0px 20px;
+}
+.foot{
+  background: #000000;
+  margin-top: 40px;
+
+}
+.navbar{
+   padding: 10px;
+}
+.card{
+  margin: 10px auto;
+}
+.toran-fil-info{
+  color: #FFFFFF;
+  padding: 30px;
+}
+.siteHeader{
+  width:320px;
+  font-family: 'Pacifico', cursive;
+  padding: 20px;
+  margin: 0 auto;
+
+}
+.galleryImage{
+  width:100%;
+  height:auto;
+  padding:20px;
+}
